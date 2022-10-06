@@ -1,5 +1,5 @@
 stages:
-- stages: continuous_integration
+- stage: continuous_integration
   jobs: 
   - job: build
     steps:
